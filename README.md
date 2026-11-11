@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-3b82f6?style=flat-square" />
 </p>
 
-<h3 align="center"><i>"If it's written in your destiny, write it yourself."</i></h3>
+<h3 align="center"><i>"If it's not written in your destiny, write it yourself."</i></h3>
 
 ---
 
