@@ -1,11 +1,11 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e3a8a,100:7c3aed&height=220&section=header&text=Koduru%20Chandrasekhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descSize=19" alt="Koduru Chandrasekhar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e3a8a,100:7c3aed&height=220&section=header&text=Koduru%20Chandrasekhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%E2%80%A2%20AI%2FML%20System%20Design&descAlignY=58&descSize=19" alt="Koduru Chandrasekhar" />
 </p>
 
 <p align="center">
   <a href="https://koduruchandrasekhar.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+build+AI+systems+that+are+tested+and+actually+ship.;LLM+serving+%E2%80%A2+Distributed+training+%E2%80%A2+Vector+search;Agent+runtimes+%E2%80%A2+RAG+%E2%80%A2+Computer+vision;B.Tech+CSE+%40+JNTUH+%E2%80%A2+CGPA+9.48;Giving+up+is+not+in+the+blood." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=760&lines=AI%2FML+enthusiast+building+AI%2FML+systems.;LLM+serving+%E2%80%A2+Distributed+training+%E2%80%A2+Vector+search;Agent+runtimes+%E2%80%A2+RAG+%E2%80%A2+Computer+vision;B.Tech+CSE+%40+JNTUH+%E2%80%A2+CGPA+9.48;Giving+up+is+not+in+the+blood+sirrrr+%F0%9F%A9%B8" alt="typing intro" />
   </a>
 </p>
 
@@ -27,16 +27,12 @@
 
 ---
 
-## 🧠 `whoami`
+## 👋 About Me
 
-```python
-class KoduruChandrasekhar:
-    role      = "AI Engineer & Systems Builder"
-    education = "B.Tech CSE @ JNTUH UCESTH (2024 - 2028)"
-    cgpa      = 9.48
-    builds    = ["LLM serving", "distributed training", "vector search", "agent runtimes", "RAG", "computer vision"]
-    motto     = "Giving up is not in the blood."
-```
+- 🤖 **AI/ML enthusiast**, interested in building solutions around **AI/ML system design**
+- 🔭 Working on LLM serving, distributed training, vector search and agent runtimes
+- 🎓 B.Tech CSE @ JNTU Hyderabad · CGPA **9.48**
+- 📫 Open to AI/ML and systems internships: [koduruchandrasekhar10@gmail.com](mailto:koduruchandrasekhar10@gmail.com)
 
 ---
 
@@ -77,11 +73,19 @@ Up to <b>8x</b> the throughput of static batching on a T4, reaching <b>52–59%<
 <sub><a href="https://github.com/KoduruChandrasekhar/Durable-Agent-Runtime">code</a></sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧪 <a href="https://github.com/KoduruChandrasekhar/Sandfork">Sandfork</a></h3>
+<b>Forkable sandboxes for RL rollouts</b><br/>
+8 sandboxes ready in <b>1.5 s vs 14.3 s</b> cold; zygote forks use <b>73% less</b> memory<br/><br/>
+<code>Rust</code> <code>Python</code><br/>
+<sub><a href="https://github.com/KoduruChandrasekhar/Sandfork">code</a></sub>
+</td>
+</tr>
 </table>
 
 <!--INFRA:END-->
 
-🚧 **Building now:** [Sandfork](https://github.com/KoduruChandrasekhar/Sandfork), forkable sandboxes for RL rollouts (8 sandboxes ready in 1.5 s vs 14.3 s cold)
 
 ---
 
@@ -182,11 +186,11 @@ How hair, ink and frame artifacts degrade 6 segmentation models on ISIC 2018 (0.
   </picture>
 </p>
 
-<h3 align="center"><i>Giving up is not in the blood. 🩸</i></h3>
+<h3 align="center"><i>Giving up is not in the blood sirrrr 🩸</i></h3>
 
 <!--UPDATED:START-->
 
-<p align="center"><sub>Auto-updated 18 Nov 2026, 21:20 IST</sub></p>
+<p align="center"><sub>Auto-updated 18 Nov 2026, 21:24 IST</sub></p>
 
 <!--UPDATED:END-->
 
